@@ -40,8 +40,11 @@ For population = 35,000, we predict a profit of 2798.37
 For population = 70,000, we predict a profit of 44554.55
 
 Visualisasi Hasil 1
+
 ![enter image description here](https://raw.githubusercontent.com/rafiffausta/TugasInternship2Computing/master/Hasil1.png)
+
 Visualisasi Hasil 4
+
 ![enter image description here](https://raw.githubusercontent.com/rafiffausta/TugasInternship2Computing/master/Hasil4.png)
 
 ## Framework/Technology/techstack USED
