@@ -9,21 +9,25 @@ Projek ini bertujuan untuk memprediksi sebuah garis berdasarkan data-data yang a
 ## Result
 Hasil 1, hasil dengan menggunakan 1500 iterasi
 ![enter image description here](https://raw.githubusercontent.com/rafiffausta/TugasInternship2Computing/master/hasilL1.png)
+
 For population = 35,000, we predict a profit of 4519.77
 For population = 70,000, we predict a profit of 45342.45
 
 Hasil 2, hasil dengan menggunakan 3500 iterasi
 ![enter image description here](https://raw.githubusercontent.com/rafiffausta/TugasInternship2Computing/master/hasilL2.png)
+
 For population = 35,000, we predict a profit of 28338.51
 For population = 70,000, we predict a profit of 56236.88
 
 Hasil 3, hasil dengan menggunakan 15000 iterasi
 ![enter image description here](https://raw.githubusercontent.com/rafiffausta/TugasInternship2Computing/master/hasilL3.png)
+
 For population = 35,000, we predict a profit of 2798.36876
 For population = 70,000, we predict a profit of 44554.54631
 
 Hasil 4, hasil dengan menggunakan 40000 iterasi
 ![enter image description here](https://raw.githubusercontent.com/rafiffausta/TugasInternship2Computing/master/hasilL4.png)
+
 For population = 35,000, we predict a profit of 2798.37
 For population = 70,000, we predict a profit of 44554.55
 
